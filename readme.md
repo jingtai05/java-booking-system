@@ -6,7 +6,6 @@ This project is a simple booking system built in Java. It allows students to sch
 
 ## Quick Start
 **Set up Java environment:**
-
 <a href="https://www.oracle.com/java/technologies/downloads/?er=221886" target="_blank">Oracle: Java Downloads</a>
 
 ```
