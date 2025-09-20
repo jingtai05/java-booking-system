@@ -5,8 +5,9 @@ Diploma Sem 4 Assignment
 This project is a simple booking system built in Java. It allows students to schedule appointments with lecturers, manage their bookings, and leave feedback.
 
 ## Quick Start
-**Set up Java environment**
-[Oracle: Java Downloads](https://www.oracle.com/java/technologies/downloads/?er=221886)
+**Set up Java environment:**
+
+<a href="https://www.oracle.com/java/technologies/downloads/?er=221886" target="_blank">Oracle: Java Downloads</a>
 
 ```
  check your java version in your terminal
